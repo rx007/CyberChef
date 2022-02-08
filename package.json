@@ -98,7 +98,7 @@
     "browserify-zlib": "^0.2.0",
     "bson": "^4.4.1",
     "buffer": "^6.0.3",
-    "cbor": "5.0.1",
+    "cbor": "5.2.0",
     "chi-squared": "^1.1.0",
     "codepage": "^1.15.0",
     "core-js": "^3.16.2",

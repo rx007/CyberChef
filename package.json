@@ -155,7 +155,7 @@
     "ssdeep.js": "0.0.3",
     "stream-browserify": "^3.0.0",
     "terser": "^5.7.1",
-    "tesseract.js": "2.1.5",
+    "tesseract.js": "3.0.0",
     "ua-parser-js": "^0.7.28",
     "unorm": "^1.6.0",
     "utf8": "^3.0.0",
